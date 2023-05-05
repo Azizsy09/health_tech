@@ -1,0 +1,87 @@
+.contact{
+    background: #bfd2f8;
+    border-radius: 5px;
+    padding: 49px 55px 49px 26px;
+}
+.contact p{
+    color: #1f2b6c;
+      font-family: Work Sans;
+      line-height: 1.4;
+}
+.contact p a{
+    color: #1f2b6c; 
+    font-family: Work Sans
+}
+.contact p span{
+    color: #1f2b6c; 
+    font-family: Work Sans
+}
+/*------------------------------------------------footer------------------------*/
+.footer{
+    background: #1f2b6c; 
+    padding: 68px 187px 73px 187px;
+    margin-top: 50px;
+  }
+  .footer-contain {
+    align-items: start; 
+    display: flex;
+     margin-left: 1px;
+  }
+  .footer-contain h1{
+    color: #bfd2f8;
+          font-family: Yeseva One;
+          font-size: 36px;
+          text-transform: uppercase;
+  }
+  .footer-contain p{
+    color: #fcfefe;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .footer-cot{
+    align-items: start;
+     display: flex; 
+     margin: 16 0 0 1;
+  }
+  .footer-cot{
+    color: #fcfefe;
+          font-family: Work Sans;
+          font-size: 18px;
+          line-height: 1.4;
+  }
+  .footer-left{
+    margin-left: 96px;
+  }
+  .footer-left p{
+    color: #fcfefe;
+            font-family: Work Sans;
+            line-height: 1.4;
+  }
+  .footer-left-cot p{
+    color: #fcfefe;
+            font-family: Work Sans;
+            line-height: 1.4;
+  }
+  .footer-bas{
+    align-items: start;
+    background: #bfd2f8;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 28px;
+    padding: 9px 19px 16px 12px;
+  }
+  .footer-bas p{
+    color: #1f2b6c;
+            font-family: Work Sans;
+            line-height: 1.4;
+  }
+  .footer-fin{
+    align-items: center;
+     display: flex; 
+     margin: 44 0 0 1;
+  }
+  .footer-fin p {
+    color: #fcfefe; 
+    font-family: Work Sans;
+  }
